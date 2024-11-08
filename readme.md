@@ -5,7 +5,7 @@
 <h1><strong> About me </strong></h1>
 <h3> 💻 I am a student in UIT
 
-<h3> 
+<h3> ✨ I want to be a AI Engineer </h3>
 
 <h1><strong> I code with </strong></h1>
 
